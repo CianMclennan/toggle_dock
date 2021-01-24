@@ -1,0 +1,1 @@
+A very simple exacutable that toggles hidding for the macos dock.
